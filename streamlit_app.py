@@ -91,7 +91,7 @@ if not st.session_state["authenticated"]:
                 </div>
                 <h1>TB Audit Intelligence</h1>
                 <p>Turn trial-balance data into structured audit insight.</p>
-                <p>Developed by Basid Basathiya<br>with Guidance of CA Smit Sir</p>
+                <p>Developed by Basid Basathiya</p>
                 <div class="login-card">
         """, unsafe_allow_html=True)
         with st.form("login_form"):
